@@ -4,11 +4,11 @@
 
 - ✏️ I make education better at [Stift](https://stift.com.br)
 
-- 📫 You can reach me at **marcelinojr@everton.xyz**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's talk:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evertonmarcelinojr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="evertonmarcelinojr" height="30" width="40" /></a>
+  <a href="https://t.me/evertonmjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="evertonmarcelinojr" height="30" width="40" /></a>
+<a href="https://cal.com/evertonmjr" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/1.2.3/src/icon-calendar.svg" alt="evertonmarcelinojr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
